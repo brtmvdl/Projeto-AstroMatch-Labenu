@@ -1,32 +1,17 @@
-# Projeto-Astromatch-Labenu
+# [project name](https://project.url)
 
-> Status do Projeto: Em desenvolvimento :warning:
+Project description
 
+[![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/brtmvdl/Projeto-AstroMatch-Labenu/npm-publish.yml?label=GitHub%20Actions&link=https%3A%2F%2Fgithub.com%2Fbrtmvdl%2Fenv%2Factions%2Fworkflows%2Fnpm-publish.yml)](https://github.com/brtmvdl/Projeto-AstroMatch-Labenu/actions/workflows/npm-publish.yml) [![npm](https://img.shields.io/npm/dw/%40brtmvdl/Projeto-AstroMatch-Labenu?label=NPM%20Weekly%20Downloads)](https://www.npmjs.com/package/@brtmvdl/Projeto-AstroMatch-Labenu) [![github/stars](https://img.shields.io/github/stars/brtmvdl/Projeto-AstroMatch-Labenu?style=social)](https://img.shields.io/github/stars/brtmvdl/Projeto-AstroMatch-Labenu?style=social) 
 
-<p align="justify"> Esse é um projeto de Frontend Web feito no curso de Desenvolvimento Web Full Stack da Labenu. É um projeto inspirado no Tinder, utilizando uma API própria da Labenu.
- </p>
+## social & donate
 
+[Donate](https://link.mercadopago.com.br/brtmvdl) - [Telegram](https://t.me/+KRmg5MlqgMk0MTg5) - [Discord](https://discord.gg/FpxetYYp)
 
-<h1 align="justify"> Tecnologia </h1>Tecnologia
+## how to install
 
-- React
-- Material-Ui
+## how to use
 
+## license
 
-<h1 align="justify"> Link do surge </h1>
-
-<p align="justify"> http://matchkau.surge.sh/ </p>
-
-<h1 align="justify"> Prints </h1>
-
-<img width="439" alt="Captura de Tela 2020-07-23 às 15 48 31 jpg" src="https://user-images.githubusercontent.com/63555634/88461912-1878ea00-ce7e-11ea-86bf-bea442fe6adc.png">
-
-<img width="432" alt="Captura de Tela 2020-07-23 às 15 47 03" src="https://user-images.githubusercontent.com/63555634/88461973-9f2dc700-ce7e-11ea-9c14-038a19acd2c1.png">
-
-<img width="435" alt="Captura de Tela 2020-07-23 às 15 47 23" src="https://user-images.githubusercontent.com/63555634/88461979-a5bc3e80-ce7e-11ea-90b0-58b4e64ad27c.png">
-
-<img width="440" alt="Captura de Tela 2020-07-23 às 15 49 45" src="https://user-images.githubusercontent.com/63555634/88461985-abb21f80-ce7e-11ea-8437-a0c9190028db.png">
-
-
-
-
+[MIT](./LICENSE)
